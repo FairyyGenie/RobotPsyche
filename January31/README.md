@@ -1,4 +1,4 @@
-## Essay Topic:
+## Paper Topic Proposal:
 - Conciousness of AI
   - Knowledge Argument
   - Mary in the black and white room https://www.youtube.com/watch?v=mGYmiQkah4o
