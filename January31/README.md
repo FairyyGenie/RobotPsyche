@@ -1,5 +1,5 @@
 ## Essay Topic:
--Conciousness of AI
+- Conciousness of AI
   - Knowledge Argument
   - Mary in the black and white room https://www.youtube.com/watch?v=mGYmiQkah4o
   - Physicalism v.s. Knowledge 
