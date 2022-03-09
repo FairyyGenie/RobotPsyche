@@ -3,7 +3,7 @@
 //2022/03/08
 
 
-//This is a fireflies ecosystem where when the baby larvae eat enough worms they turn into fireflies
+//This is a fireflies ecosystem 
 //1. fireflies reproduce larvae (if condition met)
 //2. when there are light then the fireflies fly outwards disappeared 
 //3. when there are no light then the fireflies roam around 
@@ -124,14 +124,14 @@ void draw() {
       for (int i=0; i<larvae; i++)
       {
         fill(20, 20, 50);
-        ellipse(50+15*i, 400, 10, 10);
+        ellipse(50+15*i, 300, 10, 10);
       }
     } else
     {
       fill(20, 20, 50);
-      ellipse(50, 400, 10, 10);
-      text("x", 80, 400);
-      text(larvae, 90, 400);
+      ellipse(50, 300, 10, 10);
+      text("x", 80, 300);
+      text(larvae, 90, 300);
     }
   }
 }
@@ -170,6 +170,13 @@ void draw() {
     textSize(20);
     text("larvae created:", 40, 240);
     text(larvae, 200, 240);
+    
+    fill(0);
+    textSize(16);
+    text("In this system, the circles are the fireflies, pink are female and yellow are male", 40, 400);
+    text("The tiny squares are the worms which are the food of fireflies", 40, 430);
+    text("The triangle on your mouse is the human", 40, 460);
+    text("The blue circle generated are the larvaes", 40, 490);
   }
 
   //food for the fireflies
