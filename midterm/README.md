@@ -34,7 +34,12 @@ Youtube:https://youtu.be/7ruShKz9bi4
 
 ### Process and Problems of implementation:
 
+Process for me was like a zipline:
+Ideation -> Try to Implement -> realized I am uncertain on how to do it -> back to thinking about the ideas
+There were some compromises involved, but I am happy with the overall outcome!
 
+
+A big issue for me is to untangle all the effects each classes have on each other. Worms are attracting Movers and Fmovers, and Fmovers are attracting Movers too. So after writing the classes, I decided I was going to try out the function one by one and see if it works.  Having also to keep track of if female and male touched each other, and have they eaten the worms is also not easy in the beginning. I decided eventually I was going to use numbers to keep track instead of trying to mess with the other functions and that made things easier and the frame looks simpler too.
 
 ### Interesting thing:
 When implementing the ecosystem, I expected that reproduction and consumption of worms will be harder under the daytime mode since humans can come in to disrupt the ecosystem.
