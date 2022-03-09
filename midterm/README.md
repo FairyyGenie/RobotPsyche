@@ -21,6 +21,7 @@ Added concepts to become an ecosystem:
 
 
 6. human comes in and the ecosystem is disrupted (The triangle in the day time represent human)
+7. Different shades of the color to imitate the flickering of light for fireflies
 
 
 ### Links to video and screenshots:
