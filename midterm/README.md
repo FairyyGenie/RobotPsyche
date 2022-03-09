@@ -24,8 +24,7 @@ Added concepts to become an ecosystem:
 Youtube: https://youtu.be/wtQZuY-atQY
 
 
-![](https://github.com/FairyyGenie/RobotPsyche/blob/main/February14/media/fireflies-1.png)
+![](https://github.com/FairyyGenie/RobotPsyche/blob/main/February14/media/Daytime.png)
 
-![](https://github.com/FairyyGenie/RobotPsyche/blob/main/February14/media/fireflies-2.png)
+![](https://github.com/FairyyGenie/RobotPsyche/blob/main/February14/media/nighttime.png)
 
-![](https://github.com/FairyyGenie/RobotPsyche/blob/main/February14/media/fireflies-3.png)
