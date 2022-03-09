@@ -38,7 +38,10 @@ Youtube:https://youtu.be/7ruShKz9bi4
 
 ### Interesting thing:
 When implementing the ecosystem, I expected that reproduction and consumption of worms will be harder under the daytime mode since humans can come in to disrupt the ecosystem.
+
 But after implementation, I realized it is not neccesarily the case. Maybe because in my program, when human shows up it pushes the fireflies to the side. And when all the fireflies are on the side, they meet each other more easily and get to eat the worms on the corner easily. The reproduction rule I set for the system is that when more than 10 worms have been eaten and the male and female fireflies have encountered each other for more than 3 times in order for the larvae to be produced.
+
+Under the night mode, the fireflies have the liberty to roam around and they are attracted by two sorts of force the female and the worms force and not effeted by any other forces. The fireflies are neccesarily always meeting each other since the characterristics for each creatures are different. 
 
 
 
