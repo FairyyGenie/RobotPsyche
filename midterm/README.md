@@ -28,7 +28,7 @@ Added concepts to become an ecosystem:
 Youtube: https://youtu.be/wtQZuY-atQY
 
 
-![](https://github.com/FairyyGenie/RobotPsyche/blob/main/midterm/media/Daytime.png)
+![](https://github.com/FairyyGenie/RobotPsyche/blob/main/midterm/media/Daytime-1.png)
 
-![](https://github.com/FairyyGenie/RobotPsyche/blob/main/midterm/media/nighttime.png)
+![](https://github.com/FairyyGenie/RobotPsyche/blob/main/midterm/media/Nighttime-1.png)
 
