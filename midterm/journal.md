@@ -25,6 +25,6 @@
 ### 3/7: Implemented the texts onscreen and test out all the forces between the creatures that are impacting each other
 
 Also added some rules for reproduction for example the conditions have to be met for the reproduction process to start. 
+Tried refining the steering function so it looks more natural.
 
 ### 3/8: Finish the project and Github page
-
