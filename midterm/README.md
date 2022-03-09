@@ -25,7 +25,7 @@ Added concepts to become an ecosystem:
 
 ### Links to video and screenshots:
 
-Youtube: https://youtu.be/wtQZuY-atQY
+Youtube:https://youtu.be/7ruShKz9bi4
 
 
 ![](https://github.com/FairyyGenie/RobotPsyche/blob/main/midterm/media/Daytime-1.png)
