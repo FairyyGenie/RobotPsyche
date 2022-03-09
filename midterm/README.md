@@ -49,7 +49,7 @@ But after implementation, I realized it is not neccesarily the case. Maybe becau
 
 Under the night mode, the fireflies have the liberty to roam around and they are attracted by two sorts of force the female and the worms force and not effeted by any other forces. The fireflies are neccesarily always meeting each other since the characterristics for each creatures are different. 
 
-
+Ehtisham suggests something really interesting. Maybe this scenario can be explain as fireflies in order to survive the human invasion they start to reproducing in a much much faster pace.
 
 
 
