@@ -51,5 +51,5 @@ Under the night mode, the fireflies have the liberty to roam around and they are
 
 Ehtisham suggests something really interesting. Maybe this scenario can be explain as fireflies in order to survive the human invasion they start to reproducing in a much much faster pace.
 
-
+In the Group discussion, I realized there are much more detail that can be considered and implemented. For example, life cycle length of existence and even incubators when the ecosystem is dying. It is turly interesting to see people's idea for their ecosystem. 
 
