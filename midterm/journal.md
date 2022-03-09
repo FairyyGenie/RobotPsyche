@@ -22,7 +22,9 @@
  
  Updated the nolight and nolightupdate functions within the fireflies classes, so that the fireflies have the traits to roam around in the comfort of the night.
  
-### 3/7:
+### 3/7: Implemented the texts onscreen and test out all the forces between the creatures that are impacting each other
 
-### 3/8:
+Also added some rules for reproduction for example the conditions have to be met for the reproduction process to start. 
+
+### 3/8: Finish the project and Github page
 
