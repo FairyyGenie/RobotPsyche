@@ -22,3 +22,10 @@ Added concepts to become an ecosystem:
 ### Links to video and screenshots:
 
 Youtube: https://youtu.be/wtQZuY-atQY
+
+
+![](https://github.com/FairyyGenie/RobotPsyche/blob/main/February14/media/fireflies-1.png)
+
+![](https://github.com/FairyyGenie/RobotPsyche/blob/main/February14/media/fireflies-2.png)
+
+![](https://github.com/FairyyGenie/RobotPsyche/blob/main/February14/media/fireflies-3.png)
