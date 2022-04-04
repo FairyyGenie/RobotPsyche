@@ -3,7 +3,10 @@ link to the presentation: https://www.canva.com/design/DAE82sfF5eU/d-_eMxnvXMldS
 
 ## 2022 April 4th
 
-## Discussion Questions:
+### Presentation Script:
+
+
+### Discussion Questions:
 How do you feel about Q the first genderless voice virtual assistant?
 
 Do you think there is a need to gender robots?
