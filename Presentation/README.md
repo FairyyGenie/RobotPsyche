@@ -5,6 +5,9 @@ link to the presentation: https://www.canva.com/design/DAE82sfF5eU/d-_eMxnvXMldS
 
 ### Presentation Script:
 
+Link to the script:
+https://docs.google.com/document/d/1qWcY1_dpXZYIzTVI0qD8R665WU64KMBGDC8dFiUu2R8/edit?usp=sharing
+
 
 ### Discussion Questions:
 How do you feel about Q the first genderless voice virtual assistant?
