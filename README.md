@@ -12,6 +12,9 @@ https://www.canva.com/design/DAE82sfF5eU/d-_eMxnvXMldSU2eU4W3CA/view?utm_content
 Presentation script and questions documented in the folder!
 
 ## Summaries
-Course Summary: 
+Course Summary: https://github.com/FairyyGenie/RobotPsyche/blob/main/courseSummary.md
+
 Presentation Summary:
+
+
 Discussion Summary:
