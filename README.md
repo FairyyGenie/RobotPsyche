@@ -14,7 +14,6 @@ Presentation script and questions documented in the folder!
 ## Summaries
 Course Summary: https://github.com/FairyyGenie/RobotPsyche/blob/main/courseSummary.md
 
-Presentation Summary:
-
+Presentation Summary:https://github.com/FairyyGenie/RobotPsyche/blob/main/presentationSummary.md
 
 Discussion Summary:
