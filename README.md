@@ -16,4 +16,4 @@ Course Summary: https://github.com/FairyyGenie/RobotPsyche/blob/main/courseSumma
 
 Presentation Summary:https://github.com/FairyyGenie/RobotPsyche/blob/main/presentationSummary.md
 
-Discussion Summary: Genie and Snehil, and the file is with Snehil
+Discussion Summary: Genie and Snehil, and the file is with Snehil!
